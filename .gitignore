@@ -1,0 +1,6 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/ItAcademiaHomeWorks/.vs/ItAcademiaHomeWorks/v16/Server/sqlite3
+/ItAcademiaHomeWorks/Task1/obj
